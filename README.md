@@ -1,2 +1,2 @@
-# EricaCecil_ExcelHomework
+# EricaCecil_Homework
 Homework
